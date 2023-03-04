@@ -26,6 +26,11 @@ pip install apytl
 
 <br>
 
+## Screenshot
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCnHahn8nf-ArSVohoA_0easkb-PV0BTOdVQpb7F62l8oQbTphEFFhIhqpymyUIDWKhjtmyjNWcoJHifF3vRdJ-IlvZbiRlRnczDfl4fL-H4lNfGRL5JiN3aCG67ErOsdPdqStI0Ird-lL-4mzFDlVFRRT4QvPNNVsduXQG6Il59SCmGxfq1agmZJbgA/s839/screenshot1.png"></img>
+
+<br>
+
 ## Contributions
 All contributions are welcome. If you have an idea for a new feature or have found a bug, please open an issue or submit a pull request.
 
